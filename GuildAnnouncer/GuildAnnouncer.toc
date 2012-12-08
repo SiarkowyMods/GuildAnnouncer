@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: Guild Announcer
+## Notes: Automatically handles guild announce messages.
+## Author: Siarkowy - Acesulfam of <HellGround EU>
+## Version: 1.1
+## SavedVariablesPerCharacter: GuildAnnDB
+
+GuildAnnouncer.lua
